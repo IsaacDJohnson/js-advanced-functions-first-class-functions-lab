@@ -1,1 +1,6 @@
-// Code your solution in this file!
+function returnFirstTwoDrivers(){
+    const findDrivers = function (drivers) {
+        drivers = []
+        return drivers[0][1]
+    }
+}
